@@ -28,4 +28,5 @@ After Nellie is installed, close all Napari windows, type `napari` in your termi
 
 ## Step 4:
 Activate Nellie by clicking `Plugins > Nellie`:
+
 ![MyImage](ReadMeImages/image4.png)
